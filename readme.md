@@ -46,3 +46,11 @@ trusted-host = pypi.tuna.tsinghua.edu.cn
 
 
 ![](https://i.loli.net/2020/04/01/VGfHADTdkarR4S6.gif)
+
+
+
+注：
+
+目前**仅支持windows**，linux正在写
+
+感谢zzq dalao的代码，那是本项目的核心之一  
